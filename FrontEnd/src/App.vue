@@ -1,7 +1,7 @@
 <script setup>
+import Navbar from "./components/shared/Navbar.vue";
 import { RouterView } from "vue-router";
 import { ClerkLoaded } from "vue-clerk";
-import Navbar from "./components/shared/Navbar.vue";
 </script>
 
 <template>
